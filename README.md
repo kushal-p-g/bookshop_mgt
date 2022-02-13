@@ -16,3 +16,8 @@ i made the project using the depencies
 4>spring boot dev tool
 5>thymeleaf
 6>spring web
+
+file storage locations:
+1>BookShop/src/main/resources/
+
+      here all the front-end codes are there
