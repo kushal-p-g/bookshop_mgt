@@ -21,3 +21,11 @@ file storage locations:
 1>BookShop/src/main/resources/
 
       here all the front-end codes are there
+2> BookShop/src/main/java/com/kushal/webapp/
+      All model and service and back -end  codes are here
+      
+      
+how to run the code
+after running the main class as spring boot app
+Goto --> localhost:8080
+ it it the url to sea the result
